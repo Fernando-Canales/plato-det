@@ -1,2 +1,2 @@
 # plato-det
-Repository for telling if a planet of our solar system could be detected by PLATO space mission
+Plato-det is a simpler package for telling if the planets of our solar system could be detected by PLATO space mission
