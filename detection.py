@@ -27,4 +27,4 @@ class planets:
             _nsr_: _noise level of the planet transit signal at detector level_
         """
         nsr = self.depth * np.sqrt*(self.duration * self.number) / eta
-        return nsr    
+        return nsr
