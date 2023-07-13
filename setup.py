@@ -1,10 +1,10 @@
 ## Setup.py for codeastro project
 from setuptools import setup, find_packages
-
+print('a ver si muy muy, hdptpm')
 setup(
-	name = "Platos_Closet",
+	name = "plato-det",
 
-	version = "0.0.1",
+	version = "1.0.0",
 
 	packages=find_packages()
 
